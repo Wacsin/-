@@ -1,2 +1,1 @@
-# -
-一些想法和代码，主要是用来熟悉github
+# AlgorithmContest  iFLYTEK用户购买倾向比赛时写的代码
