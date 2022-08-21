@@ -1,5 +1,0 @@
-主程序是test文件的main
-src 源文件
-user_predict_modles 尝试模型和保存模型在这里
-CharacteristicEnginnering 数据处理（特征工程）
-src/result.csv  初赛的提交文件
